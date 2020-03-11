@@ -33,6 +33,10 @@ If you want it to use Dscanner, you need
 [Dscanner](https://github.com/Hackerpilot/Dscanner). If you want it to use
 dfmt, you need [dfmt](https://github.com/Hackerpilot/dfmt).
 
+Installation
+============
+
+Use [Vundle](https://github.com/VundleVim/Vundle.vim) to install. Add `Plugin 'tpope/vim-fugitive'` at the top level in your `~/.vimrc`.
 
 NOTE ABOUT DCD
 ==============
